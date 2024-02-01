@@ -27,11 +27,11 @@
                     </a>
                     <ul class="dropdown-menu">
                       <li><a class="dropdown-item" href="/quienesSomos">QUIENES SOMOS</a></li>
-                      <li><a class="dropdown-item" href="#">POLITICA DE PRIVACIDAD</a></li>
+                      <li><a class="dropdown-item" href="/politicaSeguridad">POLITICA DE PRIVACIDAD</a></li>
                       <li><a class="dropdown-item" href="#">PREGUNTAS FRECUENTES</a></li>
-                      <li><a class="dropdown-item" href="#">COMO TRABAJAMOS</a></li>
-                      <li><a class="dropdown-item" href="#">TECNOLOGIAS </a></li>
-                      <li><a class="dropdown-item" href="#">CLIENTES</a></li>
+                      <li><a class="dropdown-item" href="/comoTrabajamos">COMO TRABAJAMOS</a></li>
+                      <li><a class="dropdown-item" href="/pageTecnologia">TECNOLOGIAS </a></li>
+                      <li><a class="dropdown-item" href="clientes">CLIENTES</a></li>
                     </ul>
                   </li>
                   <li class="nav-item dropdown">
@@ -40,14 +40,14 @@
                     </a>
                     <ul class="dropdown-menu">
                       <li><a class="dropdown-item" href="#">DESARROLLO DE SOFTWARE</a></li>
-                      <li><a class="dropdown-item" href="desarrolloweb.blade.php">DESARROLLO WEB</a></li>
-                      <li><a class="dropdown-item" href="#">DESARROLLO MOVIL</a></li>
+                      <li><a class="dropdown-item" href="/desarrolloweb">DESARROLLO WEB</a></li>
+                      <li><a class="dropdown-item" href="/desarrollomovil">DESARROLLO MOVIL</a></li>
                       <li><a class="dropdown-item" href="#">SEGURIDAD INFORMÁTICA</a></li>
                       <li><a class="dropdown-item" href="#">SERVICIO TÉCNICO</a></li>
                       <li><a class="dropdown-item" href="#">MARKETING DIGITAL</a></li>
                       <li><a class="dropdown-item" href="#">CAMARA SE SEGURIDAD</a></li>
                       <li><a class="dropdown-item" href="#">PLATAFORMA EDUCATIVA</a></li>
-                      <li><a class="dropdown-item" href="#">REDES Y SERVIDORES</a></li>
+                      <li><a class="dropdown-item" href="pagered">REDES Y SERVIDORES</a></li>
                     </ul>
                   </li>
                   <li class="nav-item dropdown">
