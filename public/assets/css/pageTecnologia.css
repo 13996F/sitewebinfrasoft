@@ -1,0 +1,11 @@
+.box-tecnologia{
+    background: rgb(61,9,121);
+    background: linear-gradient(90deg, rgba(61,9,121,1) 0%, rgba(18,0,36,1) 0%, rgba(141,0,255,1) 100%);
+    padding: 20px;
+    color: white;
+}
+.box-lenguaje{
+    background-color: #E5E7E9;
+    padding: 20px;
+    border-radius: 10px;
+}  
