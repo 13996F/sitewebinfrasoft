@@ -26,7 +26,7 @@
                         INSTITUCIONAL
                     </a>
                     <ul class="dropdown-menu">
-                      <li><a class="dropdown-item" href="#">QUIENES SOMOS</a></li>
+                      <li><a class="dropdown-item" href="/quienesSomos">QUIENES SOMOS</a></li>
                       <li><a class="dropdown-item" href="#">POLITICA DE PRIVACIDAD</a></li>
                       <li><a class="dropdown-item" href="#">PREGUNTAS FRECUENTES</a></li>
                       <li><a class="dropdown-item" href="#">COMO TRABAJAMOS</a></li>
